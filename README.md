@@ -21,4 +21,3 @@ Data columns (total 13 columns)
  11  Current Ver     10833 non-null  object 
  12  Android Ver     10838 non-null  object 
 dtypes: float64(1), object(12)
-
