@@ -2,7 +2,7 @@
 i am going to do EDA and Visualisaion on playstore data and its user reviews dataset. 
 
 #  Input Files:
-https://github.com/akpatel94/PLAYSTORE-DATA-ANALYSIS/tree/main/Google%20Play%20store%20Dataset
+#https://github.com/akpatel94/PLAYSTORE-DATA-ANALYSIS/tree/main/Google%20Play%20store%20Dataset
 Play Store Data.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
 User Reviews.csv - It contains the user reviews and its sentiment score for the respective app.
 
