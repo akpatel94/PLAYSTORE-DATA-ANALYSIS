@@ -1,6 +1,10 @@
 # PLAYSTORE-DATA-ANALYSIS
 i am going to do EDA and Visualisaion on playstore data and its user reviews dataset. 
 
+o. Input Files:
+Play Store Data.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
+User Reviews.csv - It contains the user reviews and its sentiment score for the respective app.
+
 1. App performance analysis: The performance of an app on the Play Store can be analyzed by tracking metrics such as downloads, ratings, reviews, and user retention. This data can be used to understand the popularity and user engagement of an app, and to identify areas of improvement.
 
 2. App Store Optimization (ASO): ASO is the process of optimizing app metadata such as app title, description, keywords, and images to improve the visibility and ranking of an app on the Play Store. App analysis tools can help in identifying the right keywords and optimizing the metadata to increase app visibility.
