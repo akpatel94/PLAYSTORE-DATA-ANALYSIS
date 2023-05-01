@@ -1,7 +1,7 @@
 # PLAYSTORE-DATA-ANALYSIS
 i am going to do EDA and Visualisaion on playstore data and its user reviews dataset. 
 
-o. Input Files:
+#  Input Files:
 Play Store Data.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
 User Reviews.csv - It contains the user reviews and its sentiment score for the respective app.
 
