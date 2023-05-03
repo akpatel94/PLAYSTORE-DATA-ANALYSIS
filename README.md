@@ -3,6 +3,7 @@ i am going to do EDA and Visualisaion on playstore data and its user reviews dat
 
 #  Input Files:
 Play Store Data.csv - It contains the basic details of the app like number of user reviews, ratings, etc.
+
 User Reviews.csv - It contains the user reviews and its sentiment score for the respective app.
 
 1. App performance analysis: The performance of an app on the Play Store can be analyzed by tracking metrics such as downloads, ratings, reviews, and user retention. This data can be used to understand the popularity and user engagement of an app, and to identify areas of improvement.
